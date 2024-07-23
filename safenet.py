@@ -33,7 +33,7 @@ def main():
         # 결과 출력
         if distance_from_floor < 0:
             print("주의: 추락 시 바닥과의 거리보다 더 낮은 지점에 위치할 수 있습니다!\n"
-                  "안전대 길이를 n 만큼 줄이거나 안전고리 채결위치를 ",-distance_from_floor,'m만큼 올리세요')
+                  "안전대 길이를 n 만큼 줄이거나 안전고리 채결위치를 ",round(-distance_from_floor,3),'m만큼 올리세요')
         elif distance_from_floor > 0:
             print(f"추락 시 바닥과의 거리는 {distance_from_floor:.2f} 미터입니다.")
 
