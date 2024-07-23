@@ -13,6 +13,8 @@ def main():
     while True:
 
         try:
+            # 편의성 향상을 위해서 사용자가 cm, m로 입력했을때를 구분해서 계산하도록 하면 좋을듯
+            print('근로자의 신장과, 안전대의 길이를 입력해주셔야 합니다.')
             worker_height = float(input("근로자의 신장 (미터 단위로 입력): "))
             harness_length = float(input("안전대 길이 (미터 단위로 입력): "))
 
