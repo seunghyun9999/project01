@@ -6,3 +6,5 @@
 
 
 ![최하사점](https://github.com/user-attachments/assets/5b98cb95-ed48-47be-8015-75264ef5ccf9)
+![사고](https://github.com/user-attachments/assets/7275b808-a563-4464-9274-1e591dd4eb58)
+![안전대](https://github.com/user-attachments/assets/9d64dc80-394e-4925-8504-9e6039626adc)
