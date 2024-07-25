@@ -6,7 +6,7 @@
 
 #### 🚨 코드는 각 함수를 사용하여 입력값을 처리하고, 사용자가 잘못된 입력을 할 경우 예외 처리를 통해 처음으로 돌아가 오류를 방지합니다.
 
-#### 🚨엑셀 추가 가능 버전을 사용하려면 Pandas openpyxl 라이브러리를 추가해야 합니다. 
+#### 🚨엑셀 추가 가능 버전을 사용하려면 Pandas와 openpyxl를 라이브러리에 추가해야 합니다. 
 
 ![최하사점](https://github.com/user-attachments/assets/5b98cb95-ed48-47be-8015-75264ef5ccf9)
 ![사고](https://github.com/user-attachments/assets/7275b808-a563-4464-9274-1e591dd4eb58)
